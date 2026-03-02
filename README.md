@@ -6,7 +6,7 @@ A native iOS sandbox featuring an interactive drag-and-drop canvas and haptic fe
 
 ---
 
-## 📖 The Story Behind Layout.26
+## The Story Behind Layout.26
 
 I used to sit at my Mac trying to build iOS layouts in Xcode, and it was exhausting. Instead of designing, I was doing math—guessing padding, stacking views, and waiting for the simulator to load just to fix a misaligned button. I felt completely disconnected from my work.
 
